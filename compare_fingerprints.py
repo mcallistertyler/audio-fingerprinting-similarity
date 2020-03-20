@@ -1,9 +1,7 @@
 import argparse
-import subprocess
 import acoustid
 import chromaprint
 from fuzzywuzzy import fuzz
-sample_time = 4000
 
 def calculate_fingerprints(filename):
    print('calculate fingerprints of audio file') 
