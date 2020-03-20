@@ -1,0 +1,3 @@
+pyacoustid==1.1.7
+fuzzywuzzy==0.18.0
+chromaprint==0.5
